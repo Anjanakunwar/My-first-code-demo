@@ -1,2 +1,3 @@
 # My-first-code-demo
-This is my first git reporitory
+This is my first Git Reporitory
+Author - Anjana kunwar.
